@@ -1,0 +1,114 @@
+{
+    "url":"Callithrix.glb",
+    "bones": [
+      {
+        "id": "ethmoid",
+        "name": "Ethmoid obne",
+        "fact": "The ethmoid bone serves as a supporting structure within the skull."
+      },
+      {
+        "id": "frontal",
+        "name": "Forehead",
+        "fact": "The frontal sinuses are located in the frontal bone and contribute to nasal cavity function."
+      },
+      {
+        "id": "jugal",
+        "name": "Jugal bone",
+        "fact": "The jugal bone is thin, strut-like and reduces skull weight and aid in cranial movement."
+      },
+      {
+        "id": "L_teeth",
+        "name": "Left teeth",
+        "fact": "Teeth are not considered bones, but instead hard issue primarily designed for chewing."
+      },
+      {
+        "id": "lacrimals",
+        "name": "Tear bone",
+        "fact": "Lacrimal bones are small, paried bones locataed in the medial wall of each eye socket."
+      },
+      {
+        "id": "mandible",
+        "name": "Lower jaw bone",
+        "fact": "The mandible is the only moveable bone in the skull."
+      },
+      {
+        "id": "maxilla",
+        "name": "Upper jaw bone",
+        "fact": "The maxilla supports the upper teeth and forms the roof of the mouth."
+      },
+      {
+        "id": "nasal",
+        "name": "nasal bone",
+        "fact": "The nasal bones fuse to protect the nasal carity from external elements."
+      },
+      {
+        "id": "nasal_cochae",
+        "name": "Turbinate",
+        "fact": "The nasal cochae is responsible for warming and humidifying the air before it enters the lungs."
+      },
+      {
+        "id": "occipital",
+        "name": "Occipital bone",
+        "fact": "The occipital bone is known as C0 and protects the cerebellum and occipital lobes of the brain."
+      },
+      {
+        "id": "palantine",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "parietal",
+        "name": "Parietal bone",
+        "fact": "Palatine bones contribute to the hard palate and floor of the nasal cavity."
+      },
+      {
+        "id": "premaxilla",
+        "name": "Incisive bone",
+        "fact": "The premaxilla bone contributes to the facial skeleton and supports the incisors."
+      },
+      {
+        "id": "sphenoid",
+        "name": "Wedge bone",
+        "fact": "The sphenoid bone is a complex, butterfly-shaped bone that contributes to the forming of the skull base, orbits, and nasal cavity."
+      },
+      {
+        "id": "teeth",
+        "name": "Teeth",
+        "fact": "Callithrix marmosets have enlarged mandibular incisors to gouge trees."
+      },
+      {
+        "id": "temporal",
+        "name": "Temporal bone",
+        "fact": "Temporal bones form part of the lateral skull base and house the structures of the middle and inner ear."
+      },
+      {
+        "id": "vomer",
+        "name": "Vomer bone",
+        "fact": "The vomer bone is a single flat bone located in the midline of the skull in the nasal cavity."
+      }
+    ],
+    "questions": {
+      "identifyingQuestions": [
+        {
+          "question": "Which bone does the mallithrix use to gouge trees?",
+          "answerId": "teeth" 
+        },
+        {
+          "question": "Which bone is the only moveable bone in the body?",
+          "answerId": "mandible" 
+        }
+      ],
+      "multipleChoiceQuestions": [
+        {
+          "question": "Which bone is butterfly shaped?",
+          "options": ["sphenoid", "temporal", "vomer", "premaxilla"],
+          "answer": 0
+        },
+        {
+          "question": "Which skeletal adaptation significantly contributes to the leaping ability of Callithrix marmosets?",
+          "options": ["Elongated clavicle", "Elongated calcaneus", "Extended mandible", "Reinforced rib cage"],
+          "answer": 1
+        }
+      ]
+    }
+  }

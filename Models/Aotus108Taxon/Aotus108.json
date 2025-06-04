@@ -1,0 +1,33 @@
+{
+    "ModelName": "Aotus108",
+    "Description": "The Skull of Aotus108",
+    "URL": "https://digitalworlds.github.io/CURE25_Test/models/AotusTaxonPage/TaxonPage_Aotus108.glb",
+    "Parts":
+    [
+        {
+            "PartName": "Aotus108_MaxillarTeeth",
+            "DisplayName": "Maxillar Teeth",
+            "PartDescription": "The Maxillar Teeth Bone"
+        },
+        {
+            "PartName": "Aotus108_MandibularTeeth",
+            "DisplayName": "Mandibular Teeth",
+            "PartDescription": "The Mandibular Teeth Bone"
+        },
+        {
+            "PartName": "Aotus108_Mandible",
+            "DisplayName": "Mandible Bone",
+            "PartDescription": "The Mandible Bone"
+        },
+        {
+            "PartName": "Aotus108_Cranium",
+            "DisplayName": "Cranium Bone",
+            "PartDescription": "The Cranium Bone"
+        },
+        {
+            "PartName": "Aotus108_Calotte",
+            "DisplayName": "Calotte Bone",
+            "PartDescription": "The Calotte Bone"
+        }
+    ]
+}

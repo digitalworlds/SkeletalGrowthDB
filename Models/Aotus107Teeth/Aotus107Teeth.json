@@ -1,0 +1,298 @@
+{
+    "ModelName": "Aotus107",
+    "Description": "The Teeth of Aotus107",
+    "URL": "https://digitalworlds.github.io/CURE25_Test/models/Aotus107Teeth/Aotus107_Teeth_270K.glb",
+    "Parts":
+    [
+        {
+            "PartName": "Max_premax_150k",
+            "DisplayName": "Max_premax",
+            "PartDescription": "The Max_premax Bone"
+        },
+        {
+            "PartName": "Rmax_P4",
+            "DisplayName": "Rmax_P4",
+            "PartDescription": "The Rmax_P4 Bone"
+        },
+        {
+            "PartName": "Rmax_C1",
+            "DisplayName": "Rmax_C1",
+            "PartDescription": "The Rmax_C1 Bone"
+        },
+        {
+            "PartName": "Rmax_di2",
+            "DisplayName": "Rmax_di2",
+            "PartDescription": "The Rmax_di2 Bone"
+        },
+        {
+            "PartName": "Rmax_dp2",
+            "DisplayName": "Rmax_dp2",
+            "PartDescription": "The Rmax_dp2 Bone"
+        },
+        {
+            "PartName": "Rmax_dp3",
+            "DisplayName": "Rmax_dp3",
+            "PartDescription": "The Rmax_dp3 Bone"
+        },
+        {
+            "PartName": "Rmax_dp4",
+            "DisplayName": "Rmax_dp4",
+            "PartDescription": "The Rmax_dp4 Bone"
+        },
+        {
+            "PartName": "Rmax_I1",
+            "DisplayName": "Rmax_I1",
+            "PartDescription": "The Rmax_I1 Bone"
+        },
+        {
+            "PartName": "Rmax_I2",
+            "DisplayName": "Rmax_I2",
+            "PartDescription": "The Rmax_I2 Bone"
+        },
+        {
+            "PartName": "Rmax_M1",
+            "DisplayName": "Rmax_M1",
+            "PartDescription": "The Rmax_M1 Bone"
+        },
+        {
+            "PartName": "Rmax_M2",
+            "DisplayName": "Rmax_M2",
+            "PartDescription": "The Rmax_M2 Bone"
+        },
+        {
+            "PartName": "Rmax_P2",
+            "DisplayName": "Rmax_P2",
+            "PartDescription": "The Rmax_P2 Bone"
+        },
+        {
+            "PartName": "Rmax_P3",
+            "DisplayName": "Rmax_P3",
+            "PartDescription": "The Rmax_P3 Bone"
+        },
+        {
+            "PartName": "Lmax_C1",
+            "DisplayName": "Lmax_C1",
+            "PartDescription": "The Lmax_C1 Bone"
+        },
+        {
+            "PartName": "Lmax_dc1",
+            "DisplayName": "Lmax_dc1",
+            "PartDescription": "The Lmax_dc1 Bone"
+        },
+        {
+            "PartName": "Lmax_di1",
+            "DisplayName": "Lmax_di1",
+            "PartDescription": "The Lmax_di1 Bone"
+        },
+        {
+            "PartName": "Lmax_dp2",
+            "DisplayName": "Lmax_dp2",
+            "PartDescription": "The Lmax_dp2 Bone"
+        },
+        {
+            "PartName": "Lmax_dp3",
+            "DisplayName": "Lmax_dp3",
+            "PartDescription": "The Lmax_dp3 Bone"
+        },
+        {
+            "PartName": "Lmax_I2",
+            "DisplayName": "Lmax_I2",
+            "PartDescription": "The Lmax_I2 Bone"
+        },
+        {
+            "PartName": "Lmax_dp3",
+            "DisplayName": "Lmax_dp3",
+            "PartDescription": "The Lmax_dp3 Bone"
+        },
+        {
+            "PartName": "Lmax_M1",
+            "DisplayName": "Lmax_M1",
+            "PartDescription": "The Lmax_M1 Bone"
+        },
+        {
+            "PartName": "Lmax_M2",
+            "DisplayName": "Lmax_M2",
+            "PartDescription": "The Lmax_M2 Bone"
+        },
+        {
+            "PartName": "Lmax_P2",
+            "DisplayName": "Lmax_P2",
+            "PartDescription": "The Lmax_P2 Bone"
+        },
+        {
+            "PartName": "Lmax_P3",
+            "DisplayName": "Lmax_P3",
+            "PartDescription": "The Lmax_P3 Bone"
+        },
+        {
+            "PartName": "Lmax_P4",
+            "DisplayName": "Lmax_P4",
+            "PartDescription": "The Lmax_P4 Bone"
+        },
+        {
+            "PartName": "Lmax_di2",
+            "DisplayName": "Lmax_di2",
+            "PartDescription": "The Lmax_di2 Bone"
+        },
+        {
+            "PartName": "Lmax_I1",
+            "DisplayName": "Lmax_I1",
+            "PartDescription": "The Lmax_I1 Bone"
+        },
+        {
+            "PartName": "Lmax_dp4",
+            "DisplayName": "Lmax_dp4",
+            "PartDescription": "The Lmax_dp4 Bone"
+        },
+        {
+            "PartName": "Rmax_dc1",
+            "DisplayName": "Rmax_dc1",
+            "PartDescription": "The Rmax_dc1 Bone"
+        },
+        {
+            "PartName": "Rmax_di1",
+            "DisplayName": "Rmax_di1",
+            "PartDescription": "The Rmax_di1 Bone"
+        },
+        {
+            "PartName": "Mandible_filled_90k",
+            "DisplayName": "Mandible_filled",
+            "PartDescription": "The Mandible_filled Bone"
+        },
+        {
+            "PartName": "Lmand_C1",
+            "DisplayName": "Lmand_C1",
+            "PartDescription": "The Lmand_C1 Bone"
+        },
+        {
+            "PartName": "Lmand_dc1",
+            "DisplayName": "Lmand_dc1",
+            "PartDescription": "The Lmand_dc1 Bone"
+        },
+        {
+            "PartName": "Lmand_di1",
+            "DisplayName": "Lmand_di1",
+            "PartDescription": "The Lmand_di1 Bone"
+        },
+        {
+            "PartName": "Lmand_di2",
+            "DisplayName": "Lmand_di2",
+            "PartDescription": "The Lmand_di2 Bone"
+        },
+        {
+            "PartName": "Lmand_dp2",
+            "DisplayName": "Lmand_dp2",
+            "PartDescription": "The Lmand_dp2 Bone"
+        },
+        {
+            "PartName": "Lmand_dp3",
+            "DisplayName": "Lmand_dp3",
+            "PartDescription": "The Lmand_dp3 Bone"
+        },
+        {
+            "PartName": "Lmand_dp4",
+            "DisplayName": "Lmand_dp4",
+            "PartDescription": "The Lmand_dp4 Bone"
+        },
+        {
+            "PartName": "Lmand_I1",
+            "DisplayName": "Lmand_I1",
+            "PartDescription": "The Lmand_I1 Bone"
+        },
+        {
+            "PartName": "Lmand_I2",
+            "DisplayName": "Lmand_I2",
+            "PartDescription": "The Lmand_I2 Bone"
+        },
+        {
+            "PartName": "Lmand_M1",
+            "DisplayName": "Lmand_M1",
+            "PartDescription": "The Lmand_M1 Bone"
+        },
+        {
+            "PartName": "Lmand_M2",
+            "DisplayName": "Lmand_M2",
+            "PartDescription": "The Lmand_M2 Bone"
+        },
+        {
+            "PartName": "Lmand_P2",
+            "DisplayName": "Lmand_P2",
+            "PartDescription": "The Lmand_P2 Bone"
+        },
+        {
+            "PartName": "Lmand_P3",
+            "DisplayName": "Lmand_P3",
+            "PartDescription": "The Lmand_P3 Bone"
+        },
+        {
+            "PartName": "Lmand_P4",
+            "DisplayName": "Lmand_P4",
+            "PartDescription": "The Lmand_P4 Bone"
+        },
+        {
+            "PartName": "Rmand_C1",
+            "DisplayName": "Rmand_C1",
+            "PartDescription": "The Rmand_C1 Bone"
+        },
+        {
+            "PartName": "Rmand_dc1",
+            "DisplayName": "Rmand_dc1",
+            "PartDescription": "The Rmand_dc1 Bone"
+        },
+        {
+            "PartName": "Rmand_dp2",
+            "DisplayName": "Rmand_dp2",
+            "PartDescription": "The Rmand_dp2 Bone"
+        },
+        {
+            "PartName": "Rmand_di1",
+            "DisplayName": "Rmand_di1",
+            "PartDescription": "The Rmand_di1 Bone"
+        },
+        {
+            "PartName": "Rmand_di2",
+            "DisplayName": "Rmand_di2",
+            "PartDescription": "The Rmand_di2 Bone"
+        },
+        {
+            "PartName": "Rmand_dp3",
+            "DisplayName": "Rmand_dp3",
+            "PartDescription": "The Rmand_dp3 Bone"
+        },
+        {
+            "PartName": "Rmand_dp4",
+            "DisplayName": "Rmand_dp4",
+            "PartDescription": "The Rmand_dp4 Bone"
+        },
+        {
+            "PartName": "Rmand_I1",
+            "DisplayName": "Rmand_I1",
+            "PartDescription": "The Rmand_I1 Bone"
+        },
+        {
+            "PartName": "Rmand_M1",
+            "DisplayName": "Rmand_M1",
+            "PartDescription": "The Rmand_M1 Bone"
+        },
+        {
+            "PartName": "Rmand_M2",
+            "DisplayName": "Rmand_M2",
+            "PartDescription": "The Rmand_M2 Bone"
+        },
+        {
+            "PartName": "Rmand_P2",
+            "DisplayName": "Rmand_P2",
+            "PartDescription": "The Rmand_P2 Bone"
+        },
+        {
+            "PartName": "Rmand_P3",
+            "DisplayName": "Rmand_P3",
+            "PartDescription": "The Rmand_P3 Bone"
+        },
+        {
+            "PartName": "Rmand_P4",
+            "DisplayName": "Rmand_P4",
+            "PartDescription": "The Rmand_P4 Bone"
+        }
+    ]   
+}
