@@ -1,0 +1,33 @@
+{
+    "ModelName": "Aotus108_Taxon",
+    "Description": "Skull of newborn Aotus (Aotus108)",
+    "URL": ".../Aotus108_Taxon.glb",
+    "Parts":
+    [
+        {
+            "PartName": "Teeth_max",
+            "DisplayName": "Upper Teeth",
+            "PartDescription": "Maxillary teeth"
+        },
+        {
+            "PartName": "Teeth_mand",
+            "DisplayName": "Lower Teeth",
+            "PartDescription": "Mandibular teeth"
+        },
+        {
+            "PartName": "Mandible_forTaxon",
+            "DisplayName": "Mandible",
+            "PartDescription": "Mandible"
+        },
+        {
+            "PartName": "CranialBase",
+            "DisplayName": "Cranium",
+            "PartDescription": "Cranium"
+        },
+        {
+            "PartName": "Calotte",
+            "DisplayName": "Calotte",
+            "PartDescription": "Calotte"
+        }
+    ]
+}

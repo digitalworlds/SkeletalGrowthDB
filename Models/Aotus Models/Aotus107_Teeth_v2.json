@@ -1,0 +1,297 @@
+{
+    "ModelName": "Aotus107_Teeth_v2",
+    "Description": "The Teeth of Aotus107",
+    "URL": ".../Aotus107_Teeth_v2.glb",
+    "Parts": [
+        {
+            "PartName": "Lmand_C1",
+            "DisplayName": "Left lower C1",
+            "PartDescription": "Secondary (replacement) left mandibular canine"
+        },
+        {
+            "PartName": "Lmand_dc1",
+            "DisplayName": "Left lower dc1",
+            "PartDescription": "Primary (deciduous) left mandibular canine"
+        },
+        {
+            "PartName": "Lmand_di1",
+            "DisplayName": "Left lower di1",
+            "PartDescription": "Primary (deciduous) left mandibular first incisor"
+        },
+        {
+            "PartName": "Lmand_di2",
+            "DisplayName": "Left lower di2",
+            "PartDescription": "Primary (deciduous) left mandibular second incisor"
+        },
+        {
+            "PartName": "Lmand_dp2",
+            "DisplayName": "Left lower dp2",
+            "PartDescription": "Primary (deciduous) left mandibular second premolar"
+        },
+        {
+            "PartName": "Lmand_dp3",
+            "DisplayName": "Left lower dp3",
+            "PartDescription": "Primary (deciduous) left mandibular third premolar"
+        },
+        {
+            "PartName": "Lmand_dp4",
+            "DisplayName": "Left lower dp4",
+            "PartDescription": "Primary (deciduous) left mandibular fourth premolar"
+        },
+        {
+            "PartName": "Lmand_I1",
+            "DisplayName": "Left lower I1",
+            "PartDescription": "Secondary (replacement) left mandibular first incisor"
+        },
+        {
+            "PartName": "Lmand_I2",
+            "DisplayName": "Left lower I2",
+            "PartDescription": "Secondary (replacement) left mandibular second incisor"
+        },
+        {
+            "PartName": "Lmand_M1",
+            "DisplayName": "Left lower M1",
+            "PartDescription": "Primary (permanent) left mandibular first molar"
+        },
+        {
+            "PartName": "Lmand_M2",
+            "DisplayName": "Left lower M2",
+            "PartDescription": "Primary (permanent) left mandibular second molar"
+        },
+        {
+            "PartName": "Lmand_P2",
+            "DisplayName": "Left lower P2",
+            "PartDescription": "Secondary (replacement) mandibular second premolar"
+        },
+        {
+            "PartName": "Lmand_P3",
+            "DisplayName": "Left lower P3",
+            "PartDescription": "Secondary (replacement) mandibular third premolar"
+        },
+        {
+            "PartName": "Lmand_P4",
+            "DisplayName": "Left lower P4",
+            "PartDescription": "Secondary (replacement) left mandibular fourth premolar"
+        },
+        {
+            "PartName": "Lmax_C1",
+            "DisplayName": "Left upper C1",
+            "PartDescription": "Secondary (replacement) left maxillary canine"
+        },
+        {
+            "PartName": "Lmax_dc1",
+            "DisplayName": "Left upper dc1",
+            "PartDescription": "Primary (deciduous) left maxillary canine"
+        },
+        {
+            "PartName": "Lmax_di1",
+            "DisplayName": "Left upper di1",
+            "PartDescription": "Primary (deciduous) left maxillary first incisor"
+        },
+        {
+            "PartName": "Lmax_di2",
+            "DisplayName": "Left upper di2",
+            "PartDescription": "Primary (deciduous) left maxillary second incisor"
+        },
+        {
+            "PartName": "Lmax_dp2",
+            "DisplayName": "Left upper dp2",
+            "PartDescription": "Primary (deciduous) left maxillary second premolar"
+        },
+        {
+            "PartName": "Lmax_dp3",
+            "DisplayName": "Left upper dp3",
+            "PartDescription": "Primary (deciduous) left maxillary third premolar"
+        },
+        {
+            "PartName": "Lmax_dp4",
+            "DisplayName": "Left upper dp4",
+            "PartDescription": "Primary (deciduous) left maxillary fourth premolar"
+        },
+        {
+            "PartName": "Lmax_I1",
+            "DisplayName": "Left upper I1",
+            "PartDescription": "Secondary (replacement) left maxillary first incisor"
+        },
+        {
+            "PartName": "Lmax_I2",
+            "DisplayName": "Left upper I2",
+            "PartDescription": "Secondary (replacement) left maxillary second incisor"
+        },
+        {
+            "PartName": "Lmax_M1",
+            "DisplayName": "Left upper M1",
+            "PartDescription": "Primary (permanent) left maxillary first molar"
+        },
+        {
+            "PartName": "Lmax_M2",
+            "DisplayName": "Left upper M2",
+            "PartDescription": "Primary (permanent) left maxillary second molar"
+        },
+        {
+            "PartName": "Lmax_P2",
+            "DisplayName": "Left upper P2",
+            "PartDescription": "Secondary (replacement) maxillary second premolar"
+        },
+        {
+            "PartName": "Lmax_P3",
+            "DisplayName": "Left upper P3",
+            "PartDescription": "Secondary (replacement) maxillary third premolar"
+        },
+        {
+            "PartName": "Lmax_P4",
+            "DisplayName": "Left upper P4",
+            "PartDescription": "Secondary (replacement) left maxillary fourth premolar"
+        },
+        {
+            "PartName": "Mandible_forTeeth",
+            "DisplayName": "Mandible_filled",
+            "PartDescription": "Isolated mandible"
+        },
+        {
+            "PartName": "Maxilla_forTeeth",
+            "DisplayName": "Maxilla",
+            "PartDescription": "Isolated right and left maxillae"
+        },
+        {
+            "PartName": "Rmand_C1",
+            "DisplayName": "Right lower C1",
+            "PartDescription": "Secondary (replacement) right mandibular canine"
+        },
+        {
+            "PartName": "Rmand_dc1",
+            "DisplayName": "Right lower dc1",
+            "PartDescription": "Primary (deciduous) right mandibular canine"
+        },
+        {
+            "PartName": "Rmand_di1",
+            "DisplayName": "Right lower di1",
+            "PartDescription": "Primary (deciduous) right mandibular first incisor"
+        },
+        {
+            "PartName": "Rmand_di2",
+            "DisplayName": "Right lower di2",
+            "PartDescription": "Primary (deciduous) right mandibular second incisor"
+        },
+        {
+            "PartName": "Rmand_dp2",
+            "DisplayName": "Right lower dp2",
+            "PartDescription": "Primary (deciduous) right mandibular second premolar"
+        },
+        {
+            "PartName": "Rmand_dp3",
+            "DisplayName": "Right lower dp3",
+            "PartDescription": "Primary (deciduous) right mandibular third premolar"
+        },
+        {
+            "PartName": "Rmand_dp4",
+            "DisplayName": "Right lower dp4",
+            "PartDescription": "Primary (deciduous) right mandibular fourth premolar"
+        },
+        {
+            "PartName": "Rmand_I1",
+            "DisplayName": "Right lower I1",
+            "PartDescription": "Secondary (replacement) right mandibular first incisor"
+        },
+        {
+            "PartName": "Rmand_I2",
+            "DisplayName": "Right lower I2",
+            "PartDescription": "Secondary (replacement) right mandibular second incisor"
+        },
+        {
+            "PartName": "Rmand_M1",
+            "DisplayName": "Right lower M1",
+            "PartDescription": "Primary (permanent) right mandibular first molar"
+        },
+        {
+            "PartName": "Rmand_M2",
+            "DisplayName": "Right lower M2",
+            "PartDescription": "Primary (permanent) right mandibular second molar"
+        },
+        {
+            "PartName": "Rmand_P2",
+            "DisplayName": "Right lower P2",
+            "PartDescription": "Secondary (replacement) mandibular second premolar"
+        },
+        {
+            "PartName": "Rmand_P3",
+            "DisplayName": "Right lower P3",
+            "PartDescription": "Secondary (replacement) mandibular third premolar"
+        },
+        {
+            "PartName": "Rmand_P4",
+            "DisplayName": "Right lower P4",
+            "PartDescription": "Secondary (replacement) right mandibular fourth premolar"
+        },
+        {
+            "PartName": "Rmax_C1",
+            "DisplayName": "Right upper C1",
+            "PartDescription": "Secondary (replacement) right maxillary canine"
+        },
+        {
+            "PartName": "Rmax_dc1",
+            "DisplayName": "Right upper dc1",
+            "PartDescription": "Primary (deciduous) right maxillary canine"
+        },
+        {
+            "PartName": "Rmax_di1",
+            "DisplayName": "Right upper di1",
+            "PartDescription": "Primary (deciduous) right maxillary first incisor"
+        },
+        {
+            "PartName": "Rmax_di2",
+            "DisplayName": "Right upper di2",
+            "PartDescription": "Primary (deciduous) right maxillary second incisor"
+        },
+        {
+            "PartName": "Rmax_dp2",
+            "DisplayName": "Right upper dp2",
+            "PartDescription": "Primary (deciduous) right maxillary second premolar"
+        },
+        {
+            "PartName": "Rmax_dp3",
+            "DisplayName": "Right upper dp3",
+            "PartDescription": "Primary (deciduous) right maxillary third premolar"
+        },
+        {
+            "PartName": "Rmax_dp4",
+            "DisplayName": "Right upper dp4",
+            "PartDescription": "Primary (deciduous) right maxillary fourth premolar"
+        },
+        {
+            "PartName": "Rmax_I1",
+            "DisplayName": "Right upper I1",
+            "PartDescription": "Secondary (replacement) right maxillary first incisor"
+        },
+        {
+            "PartName": "Rmax_I2",
+            "DisplayName": "Right upper I2",
+            "PartDescription": "Secondary (replacement) right maxillary second incisor"
+        },
+        {
+            "PartName": "Rmax_M1",
+            "DisplayName": "Right upper M1",
+            "PartDescription": "Primary (permanent) right maxillary first molar"
+        },
+        {
+            "PartName": "Rmax_M2",
+            "DisplayName": "Right upper M2",
+            "PartDescription": "Primary (permanent) right maxillary second molar"
+        },
+        {
+            "PartName": "Rmax_P2",
+            "DisplayName": "Right upper P2",
+            "PartDescription": "Secondary (replacement) maxillary second premolar"
+        },
+        {
+            "PartName": "Rmax_P3",
+            "DisplayName": "Right upper P3",
+            "PartDescription": "Secondary (replacement) maxillary third premolar"
+        },
+        {
+            "PartName": "Rmax_P4",
+            "DisplayName": "Right upper P4",
+            "PartDescription": "Secondary (replacement) right maxillary fourth premolar"
+        }
+    ]
+}

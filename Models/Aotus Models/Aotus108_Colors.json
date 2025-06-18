@@ -1,0 +1,110 @@
+{
+    "ModelName": "Aotus108_Colors",
+    "Description": "Cranial elements of newborn Aotus nancymaae (Aotus108)",
+    "ViewerType": "Colors",
+    "URL": ".../Aotus108_Colors.glb",
+    "Parts":
+    [
+        {
+            "PartName": "Ethmoid",
+            "DisplayName": "Ethmoid",
+            "PartDescription": "The ethmoid contributes to the cranial base and facial skeleton"
+        },
+        {
+            "PartName": "Frontal",
+            "DisplayName": "Frontal",
+            "PartDescription": "The frontal forms bilaterally and contributes to the cranial base and vault of the skull"
+        },
+        {
+            "PartName": "Lmaxilloturbinal",
+            "DisplayName": "Left Maxilloturbinal",
+            "PartDescription": "The maxilloturbinals form bilaterally as part of the nasal capsule"
+        },
+        {
+            "PartName": "Lmaxilla",
+            "DisplayName": "Left Maxilla",
+            "PartDescription": "The maxillae form bilaterally as part of the facial skeleton"
+        },
+        {
+            "PartName": "Lnasal",
+            "DisplayName": "Left Nasal",
+            "PartDescription": "The nasals form bilaterally as part of the facial skeleton"
+        },
+        {
+            "PartName": "Lpalatine",
+            "DisplayName": "Left Palatine",
+            "PartDescription": "The palatines form bilaterally as part of the facial skeleton"
+        },
+        {
+            "PartName": "Lparietal",
+            "DisplayName": "Left Parietal",
+            "PartDescription": "The parietals form bilaterally as part of the cranial vault"
+        },
+        {
+            "PartName": "Ltemporal",
+            "DisplayName": "Left Temporal",
+            "PartDescription": "The temporals form bilaterally and contribute to the cranial base and vault of the skull"
+        },
+        {
+            "PartName": "Lzygomatic",
+            "DisplayName": "Left Zygomatic",
+            "PartDescription": "The zygomatics form bilaterally as part of the facial skeleton"
+        },
+        {
+            "PartName": "Mandible",
+            "DisplayName": "Mandible",
+            "PartDescription": "The mandible forms bilaterally and comprises the lower jaw of the skull"
+        },
+        {
+            "PartName": "Occipital",
+            "DisplayName": "Occipital",
+            "PartDescription": "The occipital contributes to the cranial base and vault of the skull"
+        },
+        {
+            "PartName": "Rmaxilloturbinal",
+            "DisplayName": "Right Maxilloturbinal",
+            "PartDescription": "The maxilloturbinals form bilaterally as part of the nasal capsule"
+
+        },
+        {
+            "PartName": "Rmaxilla",
+            "DisplayName": "Right Maxilla",
+            "PartDescription": "The maxillae form bilaterally as part of the facial skeleton"
+        },
+        {
+            "PartName": "Rnasal",
+            "DisplayName": "Right Nasal",
+            "PartDescription": "The nasals form bilaterally as part of the facial skeleton"
+        },
+        {
+            "PartName": "Rpalatine",
+            "DisplayName": "Right Palatine",
+            "PartDescription": "The palatines form bilaterally as part of the facial skeleton"
+        },
+        {
+            "PartName": "Rparietal",
+            "DisplayName": "Right Parietal",
+            "PartDescription": "The parietals form bilaterally as part of the cranial vault"
+        },
+        {
+            "PartName": "Rtemporal",
+            "DisplayName": "Right Temporal",
+            "PartDescription": "The temporals form bilaterally and contribute to the cranial base and vault of the skull"
+        },
+        {
+            "PartName": "Rzygomatic",
+            "DisplayName": "Right Zygomatic",
+            "PartDescription": "The zygomatics form bilaterally as part of the facial skeleton"
+        },
+        {
+            "PartName": "Sphenoid",
+            "DisplayName": "Sphenoid",
+            "PartDescription": "The sphenoid is a midline structure at the center of the skull and contributes to the cranial base, cranial vault, and even the facial skeleton"
+        },
+        {
+            "PartName": "Vomer",
+            "DisplayName": "Vomer",
+            "PartDescription": "The vomer is a midline structure that contributes to the nasal septum"
+        }
+    ]
+}
