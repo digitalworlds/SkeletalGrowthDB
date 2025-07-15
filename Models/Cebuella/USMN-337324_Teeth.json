@@ -3,11 +3,9 @@
     "Description": "Teeth of adult Cebuella pygmaea (USMN-337324)",
     "URL": "https://digitalworlds.github.io/SkeletalGrowthDB/Models/Cebuella/USNM-337324_Teeth.glb",
     "Orientation":
-    {
-        "X": 0,
-        "Y": 0,
-        "Z": 0
-    },
+    [
+        0,0,0
+    ],
     "Parts": [
         {
             "PartName": "Lmand_C1",
