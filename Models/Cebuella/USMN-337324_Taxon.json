@@ -1,0 +1,33 @@
+{
+    "ModelName": "USMN-337324_Taxon",
+    "Description": "Skull of adult Cebuella pygmaea (USMN-337324)",
+    "URL": ".../USMN-337324_Taxon.glb",
+    "Parts":
+    [
+        {
+            "PartName": "Teeth_max",
+            "DisplayName": "Upper Teeth",
+            "PartDescription": "Maxillary teeth"
+        },
+        {
+            "PartName": "Teeth_mand",
+            "DisplayName": "Lower Teeth",
+            "PartDescription": "Mandibular teeth"
+        },
+        {
+            "PartName": "Mandible_forTaxon",
+            "DisplayName": "Mandible",
+            "PartDescription": "Mandible"
+        },
+        {
+            "PartName": "CranialBase",
+            "DisplayName": "Cranium",
+            "PartDescription": "Cranium"
+        },
+        {
+            "PartName": "Calotte",
+            "DisplayName": "Calotte",
+            "PartDescription": "Calotte"
+        }
+    ]
+}
