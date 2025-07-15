@@ -2,6 +2,12 @@
     "ModelName": "USMN-337324_Taxon",
     "Description": "Skull of adult Cebuella pygmaea (USMN-337324)",
     "URL": ".../USMN-337324_Taxon.glb",
+    "Orientation":
+    {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
     "Parts":
     [
         {
