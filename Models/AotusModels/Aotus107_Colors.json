@@ -3,7 +3,7 @@
     "Description": "Cranial elements of juvenile Aotus nancymaae (Aotus107)",
     "ViewerType": "Colors",
     "URL": "https://digitalworlds.github.io/SkeletalGrowthDB/Models/AotusModels/Aotus107_Colors.glb",
-    "OrientationVectore": [0.0, 90.0, 0.0],
+    "Orientation": [0.0, 90.0, 0.0],
     "Parts":
     [
         {
