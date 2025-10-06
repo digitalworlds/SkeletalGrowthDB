@@ -1,0 +1,35 @@
+{
+    "ModelName": "DLC-6905_Taxon",
+    "Description": "Skull of newborn Propithecus (DLC-6905)",
+    "ViewerType": "Taxon",
+    "URL": ".../DLC-6905_Taxon.glb",
+    "Orientation": [0.0, 90.0, 0.0],
+    "Parts":
+    [
+        {
+            "PartName": "Teeth_max",
+            "DisplayName": "Upper Teeth",
+            "PartDescription": "Maxillary teeth"
+        },
+        {
+            "PartName": "Teeth_mand",
+            "DisplayName": "Lower Teeth",
+            "PartDescription": "Mandibular teeth"
+        },
+        {
+            "PartName": "Mandible_forTaxon",
+            "DisplayName": "Mandible",
+            "PartDescription": "Mandible"
+        },
+        {
+            "PartName": "CranialBase",
+            "DisplayName": "Cranium",
+            "PartDescription": "Cranium"
+        },
+        {
+            "PartName": "Calotte",
+            "DisplayName": "Calotte",
+            "PartDescription": "Calotte"
+        }
+    ]
+}
