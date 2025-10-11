@@ -1,0 +1,35 @@
+{
+    "ModelName": "Cp17_Taxon_v0",
+    "Description": "Skull of newborn Cebuella (Cp17)",
+    "ViewerType": "Taxon",
+    "URL": ".../Cp17_Taxon_v0.glb",
+    "Orientation": [0.0, 90.0, 0.0],
+    "Parts":
+    [
+        {
+            "PartName": "Teeth_max",
+            "DisplayName": "Upper Teeth",
+            "PartDescription": "Maxillary teeth"
+        },
+        {
+            "PartName": "Teeth_mand",
+            "DisplayName": "Lower Teeth",
+            "PartDescription": "Mandibular teeth"
+        },
+        {
+            "PartName": "Mandible_forTaxon",
+            "DisplayName": "Mandible",
+            "PartDescription": "Mandible"
+        },
+        {
+            "PartName": "CranialBase",
+            "DisplayName": "Cranium",
+            "PartDescription": "Cranium"
+        },
+        {
+            "PartName": "Calotte",
+            "DisplayName": "Calotte",
+            "PartDescription": "Calotte"
+        }
+    ]
+}
