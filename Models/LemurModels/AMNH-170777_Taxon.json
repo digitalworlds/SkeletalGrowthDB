@@ -1,0 +1,35 @@
+{
+    "ModelName": "AMNH-170777_Taxon",
+    "Description": "Skull of infant Lemur catta (AMNH-170777)",
+    "ViewerType": "Taxon",
+    "URL": ".../AMNH-170777_Taxon.glb",
+    "Orientation": [0.0, 90.0, 0.0],
+    "Parts":
+    [
+        {
+            "PartName": "Teeth_max",
+            "DisplayName": "Upper Teeth",
+            "PartDescription": "Maxillary teeth"
+        },
+        {
+            "PartName": "Teeth_mand",
+            "DisplayName": "Lower Teeth",
+            "PartDescription": "Mandibular teeth"
+        },
+        {
+            "PartName": "Mandible_forTaxon",
+            "DisplayName": "Mandible",
+            "PartDescription": "Mandible"
+        },
+        {
+            "PartName": "CranialBase",
+            "DisplayName": "Cranium",
+            "PartDescription": "Cranium"
+        },
+        {
+            "PartName": "Calotte",
+            "DisplayName": "Calotte",
+            "PartDescription": "Calotte"
+        }
+    ]
+}
