@@ -108,5 +108,10 @@
             "DisplayName": "Vomer",
             "PartDescription": "The vomer is a midline structure that contributes to the nasal septum"
         }
-    ]
+    ],
+    "PartsToExclude":
+    {
+        "Rmaxilloturbinal",
+        "Lmaxillaturbinal"
+    }
 }
