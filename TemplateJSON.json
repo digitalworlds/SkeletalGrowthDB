@@ -4,7 +4,7 @@
     "ViewerType": "Colors",
     "URL": "Aotus107_Colors.glb",
     "Orientation": [0.0, 90.0, 0.0],
-    "Biological Scale": 1,
+    "BiologicalScaleMM": 1,
     "Parts":
     [
         {
