@@ -2,8 +2,9 @@
     "ModelName": "AMNH-170777_Taxon",
     "Description": "Skull of infant Lemur catta (AMNH-170777)",
     "ViewerType": "Taxon",
-    "URL": ".../AMNH-170777_Taxon.glb",
+    "URL": "AMNH-170777_Taxon.glb",
     "Orientation": [0.0, 90.0, 0.0],
+    "BiologicalScaleMM": 1,
     "Parts":
     [
         {
@@ -31,5 +32,8 @@
             "DisplayName": "Calotte",
             "PartDescription": "Calotte"
         }
-    ]
+    ],
+    "PartsToExclude":
+    {
+    }
 }
