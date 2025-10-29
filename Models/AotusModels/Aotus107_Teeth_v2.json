@@ -1,7 +1,10 @@
 {
     "ModelName": "Aotus107_Teeth_v2",
     "Description": "The Teeth of Aotus107",
-    "URL": "https://digitalworlds.github.io/SkeletalGrowthDB/Models/AotusModels/Aotus107_Teeth_v2.glb",
+    "ViewerType": "Taxon",
+    "URL": "Aotus107_Teeth_v2.glb",
+    "Orientation": [0.0, 90.0, 0.0],
+    "BiologicalScaleMM": 1,
     "Parts": [
         {
             "PartName": "Lmand_C1",
@@ -293,5 +296,8 @@
             "DisplayName": "Right upper P4",
             "PartDescription": "Secondary (replacement) right maxillary fourth premolar"
         }
-    ]
+    ],
+    "PartsToExclude":
+    {
+    }
 }
