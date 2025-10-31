@@ -110,8 +110,8 @@
         }
     ],
     "PartsToExclude":
-    {
+    [
         "Rmaxilloturbinal",
         "Lmaxillaturbinal"
-    }
+    ]
 }
