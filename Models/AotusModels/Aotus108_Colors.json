@@ -2,7 +2,9 @@
     "ModelName": "Aotus108_Colors",
     "Description": "Cranial elements of newborn Aotus nancymaae (Aotus108)",
     "ViewerType": "Colors",
-    "URL": "Aotus108_Colors.glb",
+    "URL": "Aotus107_Colors.glb",
+    "Orientation": [0.0, 90.0, 0.0],
+    "BiologicalScaleMM": 1,
     "Parts":
     [
         {
