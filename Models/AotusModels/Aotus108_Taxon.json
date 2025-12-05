@@ -2,7 +2,7 @@
     "ModelName": "Aotus108_Taxon",
     "Description": "Skull of newborn Aotus (Aotus108)",
     "ViewerType": "Taxon",
-    "URL": ".../Aotus108_Taxon.glb",
+    "URL": "Aotus108_Taxon.glb",
     "Orientation": [0.0, 90.0, 0.0],
     "BiologicalScaleMM": 1,
     "Parts":
